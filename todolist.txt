@@ -5,4 +5,4 @@ To do list
 4. Make a new branch
 5. Merge branches with cmd - done
 6. Merge branches with GUI
-8. Resolve conflicts
+8. Resolve conflicts - done
