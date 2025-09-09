@@ -7,3 +7,4 @@ To do list
 6. Merge branches with GUI - done
 8. Resolve conflicts - done
 9. add remote repository - done
+10. push, pull, fetch
