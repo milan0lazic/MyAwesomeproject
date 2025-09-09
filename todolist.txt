@@ -2,5 +2,6 @@ To do list
 1. Initialize new repo - done
 2. Create first commit - done
 3. Create second commit with GUI
+4. Make a new branch
 5. Merge branches with cmd - done
 6. Merge branches with GUI
