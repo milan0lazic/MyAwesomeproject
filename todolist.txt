@@ -6,5 +6,5 @@ To do list
 5. Merge branches with cmd - done
 6. Merge branches with GUI - done
 8. Resolve conflicts - done
-9. add remote repository - done
+9. add remote repository
 10. push, pull, fetch
